@@ -1,6 +1,6 @@
-## Sobre o projeto
+## Sobre o projeto:
 
-Projeto final do modulo 3 do programarores cariocas  que consiste na criação de uma interface utilizando a biblioteca React com o objetivo de consumir os dados de um servidor JASON (criado no projeto individual do Modulo 3); usando a ferramenta AXIOS aprendidas em aula para fazer as requisições no servidor. <br> <br>
+Projeto final do modulo 3 do programarores cariocas  que consiste na criação de uma interface utilizando a biblioteca React com o objetivo de consumir os dados de um servidor JASON (criado no projeto individual do Modulo 3); usando AXIOS para fazer as requisições no servidor. <br> <br>
 
   ### requisitos cumpridos:
 
@@ -44,11 +44,16 @@ Projeto final do modulo 3 do programarores cariocas  que consiste na criação d
 
 ```
 
-- Caso queira clonar o projeto: baixe os arquivos do repositório, abra a pasta no VScode, abra o terminal e digite: npm start
+- Caso queira clonar o projeto: baixe os arquivos do repositório, abra a pasta no VScode e Faça o passo a passo acima.
  
 
 
 ---
+### Comunicação e atribuições:
+
+A comunicação do squad durante o projeto feita atraves discord de segunda a sexta as 18:00,
+além das comunicações assícronicas através do grupo do whatsapp. Todos os membros do squad tiveram participação
+na escrita do código, pesquisas e ideias em todas as etapas da criação do projeto.
 
 
 
@@ -56,20 +61,17 @@ Projeto final do modulo 3 do programarores cariocas  que consiste na criação d
 ---
 
 
-### Exemplos de consultas respondidas:
+### Layout:
 
 
-![QUERY](https://i.ibb.co/dPrm26x/temas.jpg)
-![QUERY](https://i.ibb.co/W3JwGf7/set.jpg)
+![QUERY](https://th.bing.com/th/id/R.6b36ddb6ae9f153eb70dd281a8443f39?rik=O0WaYJ%2fT5Wp4ZA&pid=ImgRaw&r=0)
+![QUERY]()
 
-## Trello
+## API:
 
-![Trello](https://i.ibb.co/gwqs4Ht/trello.png)
+![Trello]
 
-## Documentação:
 
-### Modelo de Entidade Relacional:
-![MER](https://i.ibb.co/nMgfGjw/modelo.jpg)
 
 ## Equipe
 
