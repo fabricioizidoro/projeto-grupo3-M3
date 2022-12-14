@@ -61,17 +61,6 @@ na escrita do código, pesquisas e ideias em todas as etapas da criação do pro
 ---
 
 
-### Layout:
-
-
-![QUERY](https://th.bing.com/th/id/R.6b36ddb6ae9f153eb70dd281a8443f39?rik=O0WaYJ%2fT5Wp4ZA&pid=ImgRaw&r=0)
-![QUERY]()
-
-## API:
-
-![Trello]
-
-
 
 ## Equipe
 
